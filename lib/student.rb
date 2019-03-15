@@ -10,5 +10,8 @@ class Student
     @grade = grade
     @id = nil
   end
+  
+  def create_table
+  end
 
 end
